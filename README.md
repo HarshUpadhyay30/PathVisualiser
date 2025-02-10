@@ -14,5 +14,4 @@ A web-based **Pathfinding Algorithm Visualizer** that helps users understand how
 
 ## 🛠️ Technologies Used
 - **HTML, CSS, JavaScript**
-- **React.js (Optional, if applicable)**
 - **GitHub Pages for Deployment**

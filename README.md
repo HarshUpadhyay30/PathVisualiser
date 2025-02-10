@@ -1,14 +1,18 @@
-# PATH FINDING VISUALIZER
+# Path Visualizer
 
-### SEARCHING VISUALIZER
+A web-based **Pathfinding Algorithm Visualizer** that helps users understand how different pathfinding algorithms work. This project demonstrates algorithms like **Dijkstra's Algorithm, A* Search, BFS, and DFS** using an interactive grid.
 
-- Depth First Search
-- Breadth First Search
+## 🚀 Live Demo
+🔗 [Path Visualizer](https://harshupadhyay30.github.io/PathVisualiser/)
 
-### PATH FINDING VISUALIZER
+## 📌 Features
+- Interactive grid-based visualization
+- Supports **Dijkstra, A*, BFS, and DFS** algorithms
+- Allows adding walls and obstacles
+- Real-time animation of pathfinding
+- User-friendly interface
 
-- Dijikstra Algorithm
-- A* Algorithm
-
-
-Live Demo: <a href = "https://Roshan-Verma.github.io/Path-Visualizer/"> Click Here </a>
+## 🛠️ Technologies Used
+- **HTML, CSS, JavaScript**
+- **React.js (Optional, if applicable)**
+- **GitHub Pages for Deployment**
